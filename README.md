@@ -1,6 +1,6 @@
 ### Hi, I'm Doriel 👋
 
-Data Engineer building batch pipelines and analytics platforms in production. I work across the full path from raw sources to tested, modeled data in the warehouse, and lately I focus on using LLMs to turn unstructured documents into reliable tables.
+Data Engineer building batch and streaming pipelines and analytics platforms in production. I work across the full path from raw sources to tested, modeled data in the warehouse, and lately I focus on using LLMs to turn unstructured documents into reliable tables.
 
 Based in Porto, Portugal. Open to remote roles.
 
@@ -11,7 +11,7 @@ Based in Porto, Portugal. Open to remote roles.
 **Cloud & platforms:** AWS, Databricks, Delta Lake, Unity Catalog
 **Transformation & orchestration:** dbt, Airflow, Spark, SQL
 **Languages:** Python, SQL
-**Focus areas:** data modeling, data quality and testing, AI-assisted document extraction
+**Focus areas:** data modeling, data quality and testing, AI-assisted document extraction, RAG, AI agents
 
 ---
 
