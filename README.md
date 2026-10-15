@@ -8,11 +8,10 @@ Based in Porto, Portugal. Open to remote roles.
 
 #### What I work with
 
-**Cloud & platforms:** AWS, Databricks, Delta Lake, Unity Catalog
-**Transformation & orchestration:** dbt, Airflow, Spark, SQL
-**Languages:** Python, SQL
-**Focus areas:** data modeling, data quality and testing, AI-assisted document extraction, RAG, AI agents
-
+- **Cloud & platforms:** AWS, Databricks, Delta Lake, Unity Catalog
+- **Transformation & orchestration:** dbt, Airflow, Spark, SQL
+- **Languages:** Python, SQL
+- **Focus areas:** data modeling, data quality and testing, AI-assisted document extraction
 ---
 
 #### Featured projects
